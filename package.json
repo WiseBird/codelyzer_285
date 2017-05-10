@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@angular/animations": "4.1.0",
+    "@angular/common": "4.1.0",
+    "@angular/compiler": "4.1.0",
+    "@angular/core": "4.1.0",
+    "@angular/forms": "4.1.0",
+    "@angular/http": "4.1.0",
+    "@angular/platform-browser": "4.1.0",
+    "@angular/platform-browser-dynamic": "4.1.0",
+    "@angular/router": "4.1.0",
+    "rxjs": "5.0.1",
+    "zone.js": "0.8.9"
+  },
+  "devDependencies": {
+    "codelyzer": "3.0.1",
+    "tslint": "5.1.0",
+    "typescript": "2.2.2"
+  },
+  "scripts": {
+    "tslint": "tslint --force -c tslint.json src/component.ts"
+  }
+}
